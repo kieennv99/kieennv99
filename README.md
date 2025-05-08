@@ -30,9 +30,9 @@ Inspired by logic puzzle games.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kieennv99&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- Portfolio: [your-website.com](https://kiennv-porfolio.web.app/)
+- Portfolio: [https://kiennv-porfolio.web.app]
 - Email: vankieen99@example.com
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/kiennv99/)
+- LinkedIn: [https://www.linkedin.com/in/kiennv99]
 
 ---
 
