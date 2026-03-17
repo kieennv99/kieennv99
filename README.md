@@ -1,40 +1,42 @@
 # 👋 Hi there! I'm Kien Nguyen
 
-🎮 I'm a passionate **Game Developer** with experience in creating engaging and high-performance games.  
-I love building fun, interactive experiences using technologies like **HTML5**, **PixiJS**, **Unity**, and **Node.js**.
+🎮 **Game Product Manager | Hybrid-Casual Puzzle Expert | Playable Ads Master**
 
-## 🔧 Technologies & Tools
-- 💻 HTML5 / JavaScript / TypeScript
-- ⚙️ PixiJS / Phaser / PlayCanvas
-- 🎮 Unity (C#)
-- 🔌 Node.js / WebSocket / Firebase
-- 🎨 Spine / DragonBones / TexturePacker
-- 🧪 Git / GitHub / Trello / Jira
+I'm a data-driven Game Product Manager with a strong technical background in game development. I specialize in taking games from concept to global scale, currently focusing on the **hybrid-casual puzzle** space. I love designing highly satisfying, engaging mechanics (including ASMR-like visual feedback) tailored for casual audiences, particularly in the US market.
 
-## 🚀 Featured Projects
-Here are some games I've worked on:
+With deep expertise in both **Unity** and cross-platform web technologies (**HTML5, PixiJS**), I bridge the gap between creative game design, technical execution, and user acquisition strategy.
 
-### 🐟 Fish Arena
-> A turn-based multiplayer game where fish battle in a grid-based arena.  
-Built with Unity + Node.js WebSocket backend.
+## 🎯 What I Do
+- **Product Management:** Driving the entire game lifecycle—from ideation and rapid prototyping to KPI optimization (lowering CPI, boosting Playtime & Retention). Experience collaborating with top-tier publishers like **Voodoo**.
+- **Hybrid-Casual & Puzzle Titles:** Leading development teams at **TITO GAME STUDIO** and collaborating with Napa Global to build hit games that balance fun with solid monetization strategies.
+- **Playable Ads & HTML5:** Mastering high-conversion, interactive ad experiences and lightweight web games that scale user acquisition.
 
-### 🧪 Puzzling Potions
-> Puzzle game inspired by logical deduction and unique mechanics.  
-Built with PixiJS.
+## 🔧 Core Competencies & Tech Stack
+- **Product & Analytics:** KPI Optimization, Monetization Strategy, Game Economy, A/B Testing, User Psychology.
+- **Game Engines & Web Tech:** Unity (C#), HTML5 / JavaScript / TypeScript, PixiJS, PlayCanvas, Phaser.
+- **Art & Animation Integration:** Spine, DragonBones, TexturePacker.
+- **Workflow & Agile:** Git, GitHub, Trello, Jira.
 
-### 🐍 Snake Puzzle
-> Color-based puzzle where snakes eat matching fruits and find their way home.  
-Inspired by logic puzzle games.
+## 🚀 Featured Focus Areas
+
+### 🧩 Hybrid-Casual Puzzle Games (e.g., Spin & Sort)
+> Overseeing product strategy, game design documents (GDD), and development for highly engaging puzzle mechanics. My focus is on creating order from chaos, ensuring satisfying progression, and scaling core metrics for female demographics (30-40 years old).
+
+### 🕹️ High-Conversion Playable Ads
+> Crafting bite-sized, interactive HTML5 playable experiences designed to grab attention within seconds, significantly lowering CPI and supercharging UA campaigns.
+
+### 🌐 Cross-Platform Web Games
+> Delivering optimized, high-performance web games for various portals and enterprise clients (Check out my work on [Napa Global Games](https://games.napaglobal.com/)).
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kieennv99&show_icons=true&theme=radical)
+![Kien's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieennv99&show_icons=true&theme=radical)
 
-## 📫 Contact Me
-- Portfolio: [https://kiennv-porfolio.web.app]
-- Email: vankieen99@example.com
-- LinkedIn: [https://www.linkedin.com/in/kiennv99]
+## 📫 Let's Connect
+- **Games Portfolio:** [Napa Global Games](https://games.napaglobal.com/)
+- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/kieen99?viewMode=1)
+- **LinkedIn:** [Kien Nguyen](https://www.linkedin.com/in/kiennv99/)
+- **Email:** vankieen99@gmail.com
 
 ---
 
-_“Games are the only force in the universe that can make bugs fun.”_
-
+_"Great games are built at the intersection of satisfying mechanics and data-driven design."_
