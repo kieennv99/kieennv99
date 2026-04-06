@@ -32,7 +32,7 @@ With deep expertise in both **Unity** and cross-platform web technologies (**HTM
 ![Kien's GitHub stats](https://github-readme-stats.vercel.app/api?username=kieennv99&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-- **Games Portfolio:** [Titonium Games](https://games.napaglobal.com/)
+- **Games Portfolio:** [Titonium Games](https://games.titonium.net/)
 - **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/kieen99?viewMode=1)
 - **LinkedIn:** [Kien Nguyen](https://www.linkedin.com/in/kiennv99/)
 - **Email:** vankieen99@gmail.com
